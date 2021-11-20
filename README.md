@@ -2,7 +2,7 @@
 
 # Other Students this is where you will post all of your projects 👋
 
-While uploading files make sure it has your username before the project name so onlookers can know who posted what. 
+While uploading files make sure it has your username/team name before the project name so onlookers can know who posted what. 
 
 # ✍️ Rules
 
